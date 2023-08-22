@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkqsyrysnewproject"]=globalThis["webpackChunkqsyrysnewproject"]||[]).push([[907],{3907:(e,s,n)=>{n.r(s),n.d(s,{default:()=>l});var r=n(3673);function t(e,s,n,t,a,c){return(0,r.wg)(),(0,r.iD)("div",null," Interests ")}const a={name:"Interests"};var c=n(4260);const u=(0,c.Z)(a,[["render",t]]),l=u}}]);
